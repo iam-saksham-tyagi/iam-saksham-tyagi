@@ -47,7 +47,7 @@ Currently diving deep into **Azure Linux Kernel tuning, Docker orchestration, an
 
 ### 📫 Connect & Deploy
 
-[<img src="https://img.shields.io/badge/Portfolio_Website-saksham.tech-success?style=for-the-badge&logo=firefox" />](https://sakshamtyagi.tech)
+[<img src="https://img.shields.io/badge/Portfolio_Website-sakshamtyagi.tech-success?style=for-the-badge&logo=firefox" />](https://sakshamtyagi.tech)
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=iam-saksham-tyagi&show_icons=true&theme=radical&hide_border=true" alt="Saksham's GitHub Stats" />
